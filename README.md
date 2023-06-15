@@ -10,7 +10,7 @@ I tried to make it so that the end-user who is not familiar with programming can
 There are five files in this folder:
  * "TheScript - JC Parent v2" is the code in both Jupyter notebook and html format, 
  * "relationalValues.csv" is the lookup table to be edited, 
- * and "analysis.xls" file is the output where it consolidated all the Excel files in a certain directory
+ * and "analysis.xls" file is the output where it consolidated all the Excel files in a certain directory. In this case, it consolidated 8 files.
 
 The raw data files are from a mass spectrometer. I have not uploaded these raw data files. I have changed the original code names to fake/made up code names.
 
